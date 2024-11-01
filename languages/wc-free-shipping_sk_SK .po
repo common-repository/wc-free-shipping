@@ -1,0 +1,82 @@
+# Translation of Development (trunk) in Slovak
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: plugin.php:30 plugin.php:85
+msgid "Free shipping at %s or more. Order additional %s and get free shipping..."
+msgstr ""
+
+#: plugin.php:31 plugin.php:86
+msgid "Free shipping at %s or more. You have free shipping!"
+msgstr ""
+
+#: plugin.php:60
+msgid "Settings"
+msgstr ""
+
+#: plugin.php:74
+msgid "WooCommerce Free Shipping Settings"
+msgstr ""
+
+#: plugin.php:96
+msgid "Minimum order value (without taxes) for enabling free shipping"
+msgstr ""
+
+#: plugin.php:102
+msgid "Customers will need to order at least this amount to get free shipping."
+msgstr ""
+
+#: plugin.php:108
+msgid "Order more  message"
+msgstr ""
+
+#: plugin.php:113
+msgid "Message at cart when minimum order value is not yet met, e.g. no free shipping."
+msgstr ""
+
+#: plugin.php:118
+msgid "Free shipping enabled message"
+msgstr ""
+
+#: plugin.php:123
+msgid "Message at cart when minimum order value is already met, e.g. free shipping."
+msgstr ""
+
+#. #-#-#-#-#  tmp-wc-free-shipping.pot (WooCommerce Free Shipping 1.1) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: plugin.php:133
+msgid "WooCommerce Free Shipping"
+msgstr ""
+
+#: plugin.php:134 plugin.php:207
+msgid "Free Shipping"
+msgstr ""
+
+#: plugin.php:207
+msgid "Plugin WooCommerce Free Shipping needs you to please enable %s method."
+msgstr ""
+
+#: plugin.php:222
+msgid "Enoying this plugin? Then why not rate <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> for <strong>WooCommerce Free Shipping</strong> on <a href=\"%1$s\" target=\"_blank\">WordPress.org</a> and make the developer happy too? <a href=\"%1$s\" target=\"_blank\" title=\"Click and rate &#9733;&#9733;&#9733;&#9733;&#9733;, we both know it will make you feel good inside.\">:-)</a>"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Boost your sales with free shipping!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Plugin Territory"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://pluginterritory.com"
+msgstr ""
